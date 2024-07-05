@@ -6,6 +6,7 @@ import 'package:weather_app/providers/auth_provider.dart';
 import 'package:weather_app/providers/weather_provider.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
