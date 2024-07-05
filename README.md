@@ -39,8 +39,7 @@ A simple Flutter application that includes user authentication and displays the 
     ```json
     {
     "apiKey": "YOUR_API_KEY",
-    "baseUrl": "https://api.openweathermap.org/data/2.5/weather"
-}
+    "baseUrl": "https://api.openweathermap.org/data/2.5/weather"}
     ```
 
 4. Run the app:
