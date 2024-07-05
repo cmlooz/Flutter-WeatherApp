@@ -61,7 +61,7 @@ A simple Flutter application that includes user authentication and displays the 
 
 ## Authors
 
-- **Juan Camilo Ortiz** - [yourusername](https://github.com/cmlooz)
+- **Juan Camilo Ortiz** - [cmlooz](https://github.com/cmlooz)
 
 ## License
 
